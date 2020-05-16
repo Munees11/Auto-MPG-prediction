@@ -12,3 +12,12 @@
 **Hence build a model to predict the mpg value of each car.**
 
 
+## Features on data set
+### cylinders: *contains the number of cylinders present in the car*
+### displacement: *contains the Displacement of the car*
+### horsepower: *contains the Horsepower of the car*
+### weight: *contains the weight of the car*
+### acceleration: *contains the Acceleration of the car*
+### model_year: *contains the model year of the car*
+### origin: *contains the origin country which car belong to*
+### car_name: *contains the name of the car*
