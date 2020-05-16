@@ -44,7 +44,7 @@ Hence build a model to predict the mpg value of each car.
 
 • Linear Regression, Support Vector Regressor, Random forest Regressor, Gradient boosting Regressor model have been used to predict the mpg values.
 
-**• Accuracy score:** ***91%*** using ***Random Forest Regressor***
+**• Accuracy score:** ***91%*** using ***Random Forest Regressor.***
 
 ## Inference 
-**Car's Fuel consumption(in mpg) is mostly affected by** ***weight*** and ***Displacement*** **of the car** 
+Car's Fuel consumption(in mpg) is mostly affected by ***weight*** and ***Displacement*** of the car. 
