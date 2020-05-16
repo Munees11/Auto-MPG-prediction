@@ -1,2 +1,2 @@
 # Auto-MPG-prediction
-Predict the mileage per gallon (mpg) for cars
+Predict the Fuel consumption of cars
