@@ -28,7 +28,7 @@ Hence build a model to predict the mpg value of each car.
 
 **origin:** contains the origin country which car belong to
 
-**car_name:** contains the name of the car
+**car_name:** contains the name of the car(Brand-Model-Variant)
 
 ## Target Variable 
 
