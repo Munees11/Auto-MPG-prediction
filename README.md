@@ -32,7 +32,7 @@ Hence build a model to predict the mpg value of each car.
 
 ## Target Variable 
 
-**mpg:** contains the fuel consumption value for car
+**mpg:** contains the fuel consumption value(in Miles per Gallon) for car
  
  ## Model description
 
@@ -45,4 +45,4 @@ Hence build a model to predict the mpg value of each car.
 **• Accuracy score:** ***91%*** using ***Random Forest Regressor***
 
 ## Inference 
-**Car's Fuel consumption(in mpg) is mostly affected by ***weight*** and ***Displacement*** **of the car** 
+**Car's Fuel consumption(in mpg) is mostly affected by** ***weight*** and ***Displacement*** **of the car** 
