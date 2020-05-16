@@ -38,7 +38,9 @@ Hence build a model to predict the mpg value of each car.
 
 • Numpy, Pandas, Matplotlib, Seaborn libraries have been used for Data Cleaning, Exploratory Data Analysis, and Data Visualization.
 
-• Feature Scaling and Selection Techniques have been performed.
+• Categorical Features are encoded using OneHotEncoder and LabelEncoder.
+
+• Feature Scaling, and Feature Selection Techniques have been performed.
 
 • Linear Regression, Support Vector Regressor, Random forest Regressor, Gradient boosting Regressor model have been used to predict the mpg values.
 
